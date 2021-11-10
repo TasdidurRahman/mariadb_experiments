@@ -1,0 +1,33 @@
+#name: "mango"
+#tables:
+#  - name: "go"
+#    columns:
+#      - name: "name"
+#        type: "varchar(10)"
+#        null: "null"
+#        key: "null"
+#        default: "null"
+#        extra: "null"
+#      - name: "age"
+#        type: "integer"
+#        null: "null"
+#        key: "null"
+#        default: "null"
+#        extra: "null"
+name: "bingo"
+tables:
+  - name: "og"
+    columns:
+      - name: "shei"
+        type: "varchar(10)"
+        null: "null"
+        key: "null"
+        default: "null"
+        extra: "null"
+      - name: "pokemon"
+        type: "integer"
+        null: "null"
+        key: "null"
+        default: "null"
+        extra: "null"
+
